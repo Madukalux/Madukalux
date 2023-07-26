@@ -3,7 +3,7 @@ Hi there! I'm Maduka Laksahan Maniknayaka, a software engineering student passio
 
 About Me
 🌱 I’m currently learning as an softweare engineering undergratuat.
-💼 I'm looking for an internship opportunities to work on meaningful projects and grow as a developer.
+💼 I'm looking for opportunities to work on meaningful projects and grow as a developer.
 📫 You can reach me at madukalaksahan@gmail.com or connect with me on LinkedIn.
 
 Skills
